@@ -1,14 +1,14 @@
-### Welcome to MUTUAL
+# Welcome to MUTUAL
 
 MUTUAL is a collective currently researching design culture inside the new emerging internet.
 
-## Some ideas we're exploring : 
+### Some ideas we're exploring : 
 
 * How to establish design standards for applications and experiences that interact with decentralized infrastructure
 * How to improve dialogue between protocol-level design and front-end design
 * How to reduce assumptions about user experiences in the new internet
 
-## Links
+### Links
 
 * [MUTUAL website](https://www.mutual.supply/) 
 * [Twitter](https://www.twitter/com/mutualdesign/)
