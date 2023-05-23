@@ -4,14 +4,14 @@ MUTUAL is a collective currently researching design culture inside the new emerg
 
 Some ideas we're exploring : 
 
-How to establish design standards for applications and experiences that interact with decentralized infrastructure
-How to improve dialogue between protocol-level design and front-end design
-How to reduce assumptions about user experiences in the new internet
+*How to establish design standards for applications and experiences that interact with decentralized infrastructure
+*How to improve dialogue between protocol-level design and front-end design
+*How to reduce assumptions about user experiences in the new internet
 
 #Links
 
-https://www.mutual.supply/
-https://twitter.com/mutualdesign
+[MUTUAL website](https://www.mutual.supply/)
+[Twitter] (https://twitter.com/mutualdesign)
 
 <!--
 
