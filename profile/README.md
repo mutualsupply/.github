@@ -11,7 +11,7 @@ Some ideas we're exploring :
 #Links
 
 [MUTUAL website](https://www.mutual.supply/)
-[Twitter] (https://twitter.com/mutualdesign)
+[Twitter](https://www.twitter/com/mutualdesign/)
 
 <!--
 
